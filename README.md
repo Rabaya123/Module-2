@@ -1,3 +1,3 @@
 # Milestone-1
 
-This is my code 
+For the jpeg included in this repo, it's a maze for n = 20  (20 x 20 array)
