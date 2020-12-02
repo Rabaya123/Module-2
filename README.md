@@ -2,7 +2,7 @@
 
 For the jpeg included in this repo, it's a maze for n = 20  (20 x 20 array)
 
-#Milestone-2
+# Milestone-2
 
 For milestone 2 I worked with my friend
 
