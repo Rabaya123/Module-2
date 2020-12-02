@@ -2,7 +2,7 @@
 
 For the jpeg included in this repo, it's a maze for n = 20  (20 x 20 array)
 
-![alt text](https://github.com/Rabaya123 /Module-2/blob/main/milestone 1.jpg?raw=true)
+![alt text](https://github.com/Rabaya123/Module-2/blob/main/milestone 1.jpg?raw=true)
 
 # Milestone-2
 
